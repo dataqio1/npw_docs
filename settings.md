@@ -12,4 +12,5 @@
 ![Rules](.gitbook/assets/addingnewrules.jpg)
 
 * Rule type can be a regular expression or a SQL where condition. 
+* Test
 
