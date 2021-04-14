@@ -12,3 +12,4 @@ Provide Cluster Details
 
 ![Hadoop Configuration](../.gitbook/assets/hadoop2.png)
 
+ 

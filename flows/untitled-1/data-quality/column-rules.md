@@ -17,3 +17,4 @@
 
 * Auto Suggest : The above mentioned rules under Column rules will be auto suggested by the system except for SQL where condition and regular expression. Once the rules are auto suggested, user can edit them to customize specific scenarios.
 
+ 

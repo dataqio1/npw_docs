@@ -14,3 +14,4 @@ Provide Cluster Details
 
 ![Snowflake Configuration](../.gitbook/assets/snowflake.png)
 
+ 

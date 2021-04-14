@@ -24,3 +24,4 @@ Optionally provide **s3TempDir** and **s3AwsIamRole** for better performance.
 
 ![Redshift Configuration](../.gitbook/assets/redshift_config.png)
 
+ 

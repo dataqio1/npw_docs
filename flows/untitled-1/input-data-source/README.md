@@ -12,3 +12,4 @@ Source and Target shapes from the palette can be used to configure source and de
 
 **Note :** Currently table/s input and SQL input tabs can be used together as source or target datastores.
 
+ 

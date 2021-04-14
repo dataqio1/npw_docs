@@ -9,3 +9,4 @@
 * Removed columns : This column when checked will create test cases to be evaluated for the presence of less number of columns than when the flow is created.
 * Delimiters : This option will create a test case to check if all rows have same number of delimiters and this option is available only for file input with delimiters.
 
+ 
