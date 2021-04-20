@@ -10,3 +10,7 @@ description: >-
 * NextPathWay helps in ETL process validation by applying test rules and mappings on source data and compare against the target data.
 * Data migration can be validated with NextPathWay with minimal configuration.
 * 
+
+
+
+
