@@ -1,6 +1,5 @@
 # Settings
 
-
 * Settings tab is used to create connections and also to create custom validation functions.
 * The connections created by a user will be visible to all users in that group to which the current user belong to.
 
@@ -12,6 +11,4 @@
 ![Rules](.gitbook/assets/addingnewrules.jpg)
 
 * Rule type can be a regular expression or a SQL where condition. 
-* Test
 
- 

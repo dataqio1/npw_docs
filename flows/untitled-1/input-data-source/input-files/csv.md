@@ -6,14 +6,14 @@ There are two ways to provide the input files
 * provide s3 location : **s3a**://&lt;file\_path&gt;
 
 {% hint style="info" %}
-If providing S3 file path, ensure the Dataq server IAMRole has permission to read from the S3 bucket.
+If providing S3 file path, ensure the NextPathWay server IAMRole has permission to read from the S3 bucket.
 
 Upload files limit is 50mb.
 {% endhint %}
 
 
 
-![](../../../../.gitbook/assets/screen-shot-2021-03-05-at-4.35.17-pm.png)
+![](../../../../.gitbook/assets/csvfileinput.png)
 
 * Provide delimiter option if the CSV option is selected.
 * Select header from the drop down
@@ -23,4 +23,3 @@ Upload files limit is 50mb.
 
 
 
- 

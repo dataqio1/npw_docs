@@ -1,12 +1,17 @@
 # Table of contents
 
-* [Dataq](README.md)
+* [NextPathWay](README.md)
 * [Installation](installation/README.md)
   * [Prerequisites](installation/prerequisites.md)
-  * [Windows Install](installation/dataq-installation.md)
-  * [Linux Server](installation/untitled.md)
+  * [Windows Install](installation/NextPathWay-installation.md)
+  * [Linux Install](installation/untitled/README.md)
+    * [https setup](installation/untitled/https-setup.md)
+  * [Cloud Installation](installation/cloud-installation/README.md)
+    * [GCP](installation/cloud-installation/gcp.md)
+    * [AWS](installation/cloud-installation/aws.md)
+    * [Azure](installation/cloud-installation/azure.md)
+  * [Post Install](installation/post-install.md)
   * [Improve the server](installation/improve-the-server.md)
-  * [Post Installation](installation/post-installation.md)
 * [Create Data Connections](untitled/README.md)
   * [Redshift](untitled/redshift.md)
   * [SQL Server](untitled/sql-server.md)
@@ -50,4 +55,3 @@
   * [Execute flows](flows/execute-flows.md)
   * [Defining flow settings](flows/defining-flow-settings.md)
 
- 

@@ -2,7 +2,7 @@
 
 Compares the data or columns of source and destination tables on various checks.
 
-**Cell By Cell Compare Flow** 
+**Cell By Cell Compare Flow**
 
 * Drag Source component from left to the canvas
 * Choose the Input Source Configuration and select the tables to compare
@@ -14,19 +14,11 @@ Compares the data or columns of source and destination tables on various checks.
 * By default the primary key is selected for the tables. If the key is not selected, system shows a warning sign for the user to select the Primary Key.
 * Save and Execute the flow
 
-[Data Compare Options](https://app.gitbook.com/@dataq/s/docs/flows/untitled-1/compare-cell-by-cell/cell-by-cell-compare/sql-transformation)
+[Data Compare Options](https://app.gitbook.com/@NextPathWay/s/docs/flows/untitled-1/compare-cell-by-cell/cell-by-cell-compare/sql-transformation)
 
 ![ETL Testing/Cell By Cell Compare](../../../../.gitbook/assets/cellbycell.png)
 
-
-
-
-
 ![Cell By Cell Compare Tables Mapping](../../../../.gitbook/assets/mapping.png)
-
-
-
-
 
 We can compare the selected source and destination tables to view
 
@@ -36,14 +28,7 @@ We can compare the selected source and destination tables to view
 
 ![Cell By Cell Compare Summary Results](../../../../.gitbook/assets/image%20%2811%29.png)
 
-
-
 ![Cell and Row Level Validation Results](../../../../.gitbook/assets/cell_row_level_validation_results.png)
-
-
 
 ![Keys Level Validation Results](../../../../.gitbook/assets/keys_level_validation_results.png)
 
-
-
- 

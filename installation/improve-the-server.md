@@ -27,4 +27,3 @@ IPAddress
 
 If your organization would like to opt out of this process, set the flag STORE\_CENTRAL\_FLAG=2 in **.env file**
 
- 

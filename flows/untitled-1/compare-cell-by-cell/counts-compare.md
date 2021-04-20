@@ -40,4 +40,3 @@ There is an option to the top right corner to ****Share the link and send to oth
 
 ![ ](../../../.gitbook/assets/image%20%2836%29.png)
 
- 

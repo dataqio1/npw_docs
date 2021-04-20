@@ -9,9 +9,9 @@ To select one or more tables :
 
 ![](../../../.gitbook/assets/screen-shot-2021-03-05-at-3.07.09-pm.png)
 
-**Advanced Options** : For large tables, it is recommended to provide partition column so Dataq can pull the data in parallel. 
+**Advanced Options** : For large tables, it is recommended to provide partition column so NextPathWay can pull the data in parallel. 
 
-Dataq can autodetect the partition column however it is recomended for user to provide this.
+NextPathWay can autodetect the partition column however it is recomended for user to provide this.
 
 **Rules for selecting the partition column :**
 
@@ -30,4 +30,3 @@ If the column is of type
 
 
 
- 

@@ -1,6 +1,6 @@
 # Prerequisites
 
-## To install Dataq following software are required.
+## To install NextPathWay following software are required.
 
 ### Software Requirements
 
@@ -21,4 +21,3 @@ Before proceeding ensure you have the license key
 
 
 
- 
