@@ -6,7 +6,7 @@ There are two ways to provide the input files
 * provide s3 location : **s3a**://&lt;file\_path&gt;
 
 {% hint style="info" %}
-If providing S3 file path, ensure the NextPathWay server IAMRole has permission to read from the S3 bucket.
+If providing S3 file path, ensure the SHIFT Tester server IAMRole has permission to read from the S3 bucket.
 
 Upload files limit is 50mb.
 {% endhint %}

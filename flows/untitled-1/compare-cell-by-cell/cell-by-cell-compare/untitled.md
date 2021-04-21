@@ -6,7 +6,7 @@
   * Provide SQL function in the Text Field and click on Done or 
   * Slide the toggle and add predefined rules
 
-   Go to Settings for [Add New Rule](https://app.gitbook.com/@NextPathWay/s/docs/~/drafts/-MWOAN922BH54Ft3iFk_/settings) functionality
+   Go to Settings for [Add New Rule](https://app.gitbook.com/@SHIFT Tester/s/docs/~/drafts/-MWOAN922BH54Ft3iFk_/settings) functionality
 
  
 

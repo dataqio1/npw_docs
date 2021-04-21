@@ -1,6 +1,6 @@
 # Prerequisites
 
-## To install NextPathWay following software are required.
+## To install SHIFT Tester following software are required.
 
 ### Software Requirements
 

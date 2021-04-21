@@ -17,7 +17,7 @@
 
 
 
-* **Compare Data Profile** : This allows the user to compare the selected tables in both [Cell By Cell Compare](https://app.gitbook.com/@NextPathWay/s/docs/~/drafts/-MWNZNqGnn1zbZL4vVWr/flows/untitled-1/compare-cell-by-cell/cell-by-cell-compare) and [Data Profile Compare](https://app.gitbook.com/@NextPathWay/s/docs/~/drafts/-MWNZNqGnn1zbZL4vVWr/flows/untitled-1/compare-cell-by-cell/data-profile-compare)
+* **Compare Data Profile** : This allows the user to compare the selected tables in both [Cell By Cell Compare](https://app.gitbook.com/@SHIFT Tester/s/docs/~/drafts/-MWNZNqGnn1zbZL4vVWr/flows/untitled-1/compare-cell-by-cell/cell-by-cell-compare) and [Data Profile Compare](https://app.gitbook.com/@SHIFT Tester/s/docs/~/drafts/-MWNZNqGnn1zbZL4vVWr/flows/untitled-1/compare-cell-by-cell/data-profile-compare)
   * Mark Compare Data Profile checkbox to compare the data profile of the source and target.      
 
  

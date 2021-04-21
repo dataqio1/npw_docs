@@ -1,9 +1,9 @@
 # Table of contents
 
-* [NextPathWay](README.md)
+* [SHIFT Tester](README.md)
 * [Installation](installation/README.md)
   * [Prerequisites](installation/prerequisites.md)
-  * [Windows Install](installation/NextPathWay-installation.md)
+  * [Windows Install](installation/SHIFT Tester-installation.md)
   * [Linux Install](installation/untitled/README.md)
     * [https setup](installation/untitled/https-setup.md)
   * [Cloud Installation](installation/cloud-installation/README.md)
