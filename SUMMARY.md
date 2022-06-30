@@ -21,6 +21,7 @@
     * [Databricks](untitled/hadoop-1/untitled.md)
     * [AWS EMR Cluster on demand](untitled/hadoop-1/hadoop.md)
   * [Snowflake](untitled/snowflake.md)
+  * [Oracle](untitled/oracle.md)
 * [Settings](settings.md)
 * [Dashboard](dashboard.md)
 * [Flows](flows/README.md)
